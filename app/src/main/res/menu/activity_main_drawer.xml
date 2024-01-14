@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_pintor"
+            android:icon="@drawable/brush"
+            android:title="@string/menu_pintor" />
+        <item
+            android:id="@+id/nav_escultor"
+            android:icon="@drawable/noun_sculptor_1059044"
+            android:title="@string/menu_escultor" />
+        <item
+            android:id="@+id/nav_cientifico"
+            android:icon="@drawable/baseline_library_books_24"
+            android:title="@string/menu_cientifico" />
+        <item
+            android:id="@+id/nav_inventor"
+            android:icon="@drawable/baseline_lightbulb_24"
+            android:title="@string/menu_inventor" />
+    </group>
+</menu>

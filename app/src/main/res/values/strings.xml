@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">DaVinciApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="alta">Alta</string>
+    <string name="baja">Baja</string>
+    <string name="modificacion">Modificación</string>
+
+    <string name="menu_home">Leonardo Da Vinci</string>
+
+    <string name="menu_pintor">Pintor</string>
+    <string name="menu_escultor">Escultor</string>
+    <string name="menu_cientifico">Científico</string>
+    <string name="menu_inventor">Inventor</string>
+
+
+    <string name="daVinciDescripcion">Leonardo da Vinci, el hombre universal, el sabio del Renacimiento, era un artista con habilidades versátiles en todos los campos del conocimiento humano. No solo destacó como artista, sino también como experto en aerodinámica, cocina, hidráulica, anatomía, poesía y botánica.
+Mayormente autodidacta, llenó docenas de cuadernos secretos con invenciones, observaciones y teorías sobre temas que iban desde la aeronáutica hasta la anatomía humana. Su combinación de intelecto e imaginación le permitió crear, al menos en papel, invenciones como la bicicleta, el helicóptero y un avión basado en la fisiología y habilidad de vuelo de un murciélago.</string>
+
+    <string name="pintorDescription">Leonardo da Vinci estudió la interacción de la luz y la sombra en la naturaleza, descubriendo que los objetos no están definidos por contornos visibles, sino por cómo la luz y la sombra los afectan. Al experimentar con el claroscuro, logró dar a sus pinturas una calidad realista y sutil, distanciándolas de la apariencia plana de obras más antiguas. También aplicó la técnica del sfumato, originaria de pintores flamencos y venecianos, para crear la ilusión de profundidad y atmósfera en sus obras, convirtiéndola en una poderosa herramienta gracias a su genio artístico.</string>
+    <string name="pintorMonaLisaTitle">Mona Lisa, 1503</string>
+    <string name="pintorMonaLisa">Da Vinci usó la técnica de sfumato en la Mona Lisa, su obra más famosa. Destacan el vestido simple, el paisaje dramático y la paleta de colores suaves. Aplicó capas finas de óleo para ocultar los trazos del pincel, logrando una obra sutil y enigmática.</string>
+    <string name="pintorLastSupperTitle">La última cena, 1495–1498</string>
+    <string name="pintorLastSupper">La Última Cena de Leonardo (1495–98) es famosa por su composición magistral y la marcada diferencia entre las actitudes de los 12 discípulos y la serenidad de Cristo. Leonardo capturó un momento tenso cuando Jesús anunció que uno de los Apóstoles lo traicionaría. Mientras los Apóstoles se mostraban agitados sin entender completamente, Cristo, consciente de su misión divina, permanecía tranquilo y solo. Judas, aunque compartía el secreto, quedaba excluido, convirtiéndose en la segunda figura solitaria y culpable.</string>
+
+    <string name="pintorLadyErmineTitle">La dama del armiño, 1489–1491</string>
+    <string name="pintorLadyErmine">La composición es un retrato en tres cuartos de perfil, algo bastante innovador para la época. Muestra con ello movimiento y al mismo tiempo, la imperturbabilidad solemne de una estatua antigua.
+    La pintura fue adquirida a finales del siglo xviii por el príncipe Adam Jerzy Czartoryski y desde entonces ha permanecido en posesión de esa familia, que desde 1876 lo exponía en el Museo Czartoryski de Cracovia (Polonia). Desde diciembre de 2016 la obra es propiedad del gobierno polaco, tras su adquisición a los herederos de la familia Czartoryski.</string>
+
+    <string name="escultor1">"El Caballo de Leonardo" fue un proyecto de escultura en bronce encargado por el Duque de Milán, Ludovico il Moro, a Leonardo da Vinci en 1482. Aunque nunca se completó, tenía la intención de ser la estatua ecuestre más grande del mundo, honrando a Francesco Sforza, el padre del duque. A pesar de extensos preparativos, Leonardo solo creó un gran modelo de arcilla, el cual fue destruido más tarde.</string>
+    <string name="escultor2">Boceto de Caballo de Leonardo, 1488</string>
+    <string name="escultor3">Diseño del monumento de Caballo, 1490</string>
+    <string name="escultor4">Siglos después, los diseños supervivientes de Leonardo sirvieron como base para intentar concluir el proyecto mediante nuevas esculturas.</string>
+    <string name="escultor5">El Caballo de Leonardo en Milán, 1999</string>
+    <string name="escultor6">Desde su muerte en 1519, no se ha identificado ninguna obra tridimensional suya. Sin embargo, ahora, los conservadores en Italia han presentado lo que podría ser la única escultura conocida del artista, inventor y científico.</string>
+    <string name="escultor7">La Virgen con el Niño sonriente</string>
+    <string name="escultor8">La Virgen con el Niño Sonriente fue parte de una exposición esta semana en Florencia. La escultura de 20 pulgadas de altura, hecha de arcilla roja, representa a la Virgen María, con una sonrisa enigmática similar a la de la Mona Lisa, mirando hacia abajo a un niño Jesús sonriente en su regazo. Los conservadores afirman que la escultura fue creada alrededor de 1472, cuando da Vinci era alumno del artista florentino Andrea del Verrocchio.</string>
+
+    <string name="cientifico1">Existen más de seis mil páginas de los cuadernos de Leonardo da Vinci, llenas de dibujos y gráficos con textos crípticos. Algunos están escritos de derecha a izquierda, necesitando un espejo para leerlos. Estos cuadernos están esparcidos por Europa en colecciones privadas, muchos han sido olvidados y más de la mitad se han perdido permanentemente. Algunos cuadernos han reaparecido, como los dos descubiertos en la Biblioteca Nacional de Madrid en 1965 entre documentos antiguos.</string>
+    <string name="cientifico2">Leonardo tenía la intención de publicar tratados que abarcaban diversas disciplinas, desde matemáticas hasta anatomía. Algunos de sus títulos provisionales incluyen "Libro sobre perspectiva", "Tratado sobre la cantidad continua", y "La geometría como juego". También planeaba publicar sobre temas anatómicos, como nervios, músculos, tendones y movimientos de los miembros. Estos tratados abordaban descubrimientos científicos en áreas como óptica, acústica, mecánica, dinámica de fluidos, geología, botánica y fisiología.</string>
+    <string name="cientifico3">Da Vinci estableció principios de la dendrocronología, usando los anillos de crecimiento de los árboles para determinar su edad y las variaciones climáticas experimentadas. En su Tratado de la pintura, menciona este descubrimiento, señalando que los círculos en los troncos cortados indican la edad y si han experimentado condiciones más húmedas o secas.</string>
+    <string name="cientifico4">Las observaciones anatómicas de Leonardo fueron revolucionarias en su tiempo. En el Manuscrito G, desafiando las creencias médicas de su época, afirmó que el corazón es un músculo con cuatro cavidades, no dos. Anteriormente se creía que el movimiento activo del corazón era la expansión del mismo, pero Leonardo fue el primero en comprender que era la contracción.</string>
+    <string name="cientifico5">Leonardo exploró los procesos de la luz y el sonido, reconociendo que ambos se propagan mediante ondas y entendiendo la disipación de energía. En el Manuscrito A, observó cómo una bola en movimiento gradualmente pierde su potencia. Su interés abarcó el entendimiento de fenómenos naturales y la disminución de la energía en movimiento.</string>
+
+    <string name="inventor1">Desde joven, Leonardo mostró un gran interés en comprender las leyes de la naturaleza y aplicarlas a sus inventos. Creó y mejoró diversos artilugios, desde máquinas de guerra hasta dispositivos cotidianos y conceptos aparentemente futuristas, como máquinas voladoras y trajes submarinos. La colección más completa de sus inventos se encuentra en el Códice Atlántico, con 1751 dibujos, resguardado en la Biblioteca Ambrosiana de Milán.</string>
+    <string name="inventor2">Muchos inventos de Leonardo estaban destinados al uso militar, siendo el más conocido su vehículo blindado, a veces llamado "el tanque de Leonardo". Sin embargo, este no se utilizó debido a su limitada maniobrabilidad. En el contexto de las constantes guerras en la Italia renacentista, sus diseños buscaban proporcionar ventajas estratégicas.</string>
+    <string name="inventor3">El "circumfolgore" o cañón giratorio posibilitaba el disparo en varias direcciones simultáneamente y podía reorientarse rápidamente.</string>
+    <string name="inventor4">Leonardo no se limitó a inventos destructivos; también creó mecanismos para automatizar tareas pesadas, como cortar leña, batir metales o moler cereales. Estos dispositivos empleaban engranajes y muelles, aprovechando fuerzas mecánicas o lo que hoy consideraríamos energía limpia.</string>
+    <string name="inventor5">La sierra automática usaba el mismo principio que los molinos de agua, incrementando la fuerza con un sistema de poleas.</string>
+    <string name="inventor6">Leonardo estaba especialmente apasionado por la tercera categoría de inventos, aunque en su época estas ideas podrían haber parecido extravagantes. Destacan sus prototipos de máquinas voladoras, siendo el ornitóptero el más famoso. También ideó un paracaídas en forma piramidal y una hélice voladora, aunque nunca llegó a construirlos.</string>
+    <string name="inventor7">El ornitóptero es probablemente la máquina más conocida de Leonardo da Vinci. Aunque examinó detalladamente la anatomía de las aves, no logró desarrollar un modelo funcional.</string>
+
+    <string name="altaToast">Has elegido la opción: ALTA</string>
+    <string name="bajaToast">Has elegido la opción: BAJA</string>
+    <string name="modificacionToast">Has elegido la opción: MODIFICACIÓN</string>
+
+</resources>
